@@ -1,4 +1,4 @@
-# 연주의 프로필 ![pencil(Heart)](https://github.com/user-attachments/assets/6c24da5c-8839-4550-af04-dca732e76cae)
+# 연주의 프로필 ![pencil(Heart) 256](https://github.com/user-attachments/assets/be0d7983-dfe0-4c12-97a5-7c0946905bd6)
 
 
 <a href="https://github.com/devxb/gitanimals">
