@@ -1,7 +1,7 @@
 # 연주의 프로필 ![pencil(Heart) 32](https://github.com/user-attachments/assets/4e094886-f18f-4609-b67c-1ba9695daf71) 
 ##### Welcome to YeonJu's profile ![pencil(Heart)](https://github.com/user-attachments/assets/7a83a29c-4d72-4f4b-a52a-35f778f172cc)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeonju0312&count_bg=%2379C83D&title_bg=%23555555&icon=![Alarm clock](https://github.com/user-attachments/assets/99ec4507-3cfc-47ac-ac9a-5567399e2932)&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeonju0312&count_bg=%233EA055&title_bg=%23555555&icon=visualstudiocode.svg&icon_color=%2329B6F6&title=+Today%F0%9F%8E%89+%2F+Total%F0%9F%8E%88&edge_flat=false)](https://hits.seeyoufarm.com) ![Alarm clock](https://github.com/user-attachments/assets/99ec4507-3cfc-47ac-ac9a-5567399e2932)
 
 <a href="https://github.com/devxb/gitanimals">
   <img
